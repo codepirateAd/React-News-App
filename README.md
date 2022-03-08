@@ -10,14 +10,12 @@ It has features like infinite scrolling, top loading bar and sticky navbar.
 3) npm start <br><br>
 
 # Screenshots
-Loading Screen
+### Loading Screen <br/><br/>
 ![image](https://user-images.githubusercontent.com/44190927/157169463-996bdb8d-6466-4ce2-bf46-ac646e97e399.png)
 <br/>
-Contents<br/>
+### Contents<br/><br/>
 ![image](https://user-images.githubusercontent.com/44190927/157169589-ffb78a4a-57fe-4526-979e-5b53974fe60f.png)
 <br/>
-Infinite Scrolling View
-<br/>
+### Infinite Scrolling View<br/><br/>
 ![image](https://user-images.githubusercontent.com/44190927/157169631-3db8ef3c-adb7-45cb-83b7-eee29d9b7932.png)
 
-# End 
