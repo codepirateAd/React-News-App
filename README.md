@@ -1,6 +1,6 @@
 # React-News-App
 
-A react application which uses News API to fetch news from different categories.<br />
+A react application which uses News API to fetch news from different categories.<br /><br/>
 It has features like infinite scrolling, top loading bar and sticky navbar.
 
 ![image](https://user-images.githubusercontent.com/44190927/157169463-996bdb8d-6466-4ce2-bf46-ac646e97e399.png)
